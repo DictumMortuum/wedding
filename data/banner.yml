@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Δημήτρης & Θεώνη"
+subtitle: |
+  3 Μαρτίου 2021, Αθήνα, Αιγάλεω <span class="onload-content-fade-right" id="weddingCountdown"></span>
+button:
+  link: "https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzNqMnJydWliMGlzbG4wcWc0dXBucGtpZzQgNWIzbTF2czdxc3Z1MWxyaWFucGZkMDh2NTRAZw&amp;tmsrc=5b3m1vs7qsvu1lrianpfd08v54%40group.calendar.google.com"
+  label: Save the date
+  link2: "https://goo.gl/maps/eJnB29213ehEUNSq5"
+  label2: Τοποθεσια
+
+image : "images/image843.png"
