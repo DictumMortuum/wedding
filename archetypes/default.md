@@ -1,6 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Δημήτρης και Θεώνη"
 date: {{ .Date }}
 draft: true
 ---
-
