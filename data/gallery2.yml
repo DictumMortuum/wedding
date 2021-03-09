@@ -1,0 +1,33 @@
+title: "Προετοιμασία #2"
+style: "style2 medium lightbox onscroll-fade-in"
+id: "prep2"
+pictures:
+  - title: "Και καλά αδιάφορο κοίταγμα έξω από το παράθυρο"
+    image: "images/prewedding/13.jpg"
+    thumb: "images/prewedding/13.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Over the shoulder"
+    image: "images/prewedding/15.jpg"
+    thumb: "images/prewedding/15.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Put a ring on it"
+    image: "images/prewedding/3.jpg"
+    thumb: "images/prewedding/3.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Put a ring on it #2"
+    image: "images/prewedding/14.jpg"
+    thumb: "images/prewedding/14.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Χαρούμενο Καλοριφέρ"
+    image: "images/prewedding/7.jpg"
+    thumb: "images/prewedding/7.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Τσόφλι"
+    image: "images/prewedding/16.jpg"
+    thumb: "images/prewedding/16.thumb.jpg"
+    button: μεγιστοποιηση

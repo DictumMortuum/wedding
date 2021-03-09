@@ -9,3 +9,13 @@ button:
   link2: "https://goo.gl/maps/eJnB29213ehEUNSq5"
   label2: Τοποθεσια
 image: "images/image843.png"
+button2:
+  - link: prep1
+    css: wide smooth-scroll-middle primary large
+    label: προετοιμασια 1
+  - link: prep2
+    css: wide smooth-scroll-middle primary large
+    label: προετοιμασια 2
+  - link: prep3
+    css: wide smooth-scroll-middle primary large
+    label: γαμος

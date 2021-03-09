@@ -1,0 +1,38 @@
+title: "Γάμος"
+style: "style2 medium lightbox onscroll-fade-in"
+id: "prep3"
+pictures:
+  - title: "Για τον κύριο Χαρδαλιά"
+    image: "images/wedding/4.jpg"
+    thumb: "images/wedding/4.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Έρωτας"
+    image: "images/wedding/1.jpg"
+    thumb: "images/wedding/1.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Γέλιο"
+    image: "images/wedding/5.jpg"
+    thumb: "images/wedding/5.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Υποψήφιος Βουλευτής 2022"
+    image: "images/wedding/6.jpg"
+    thumb: "images/wedding/6.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Παιδί της crest"
+    image: "images/wedding/7.jpg"
+    thumb: "images/wedding/7.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Φιλί"
+    image: "images/wedding/2.jpg"
+    thumb: "images/wedding/2.thumb.jpg"
+    button: μεγιστοποιηση
+
+  - title: "Φιλί #2"
+    image: "images/wedding/3.jpg"
+    thumb: "images/wedding/3.thumb.jpg"
+    button: μεγιστοποιηση

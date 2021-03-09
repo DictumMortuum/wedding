@@ -1,77 +1,43 @@
-title: "Gallery"
+title: "Προετοιμασία #1"
 style: "style2 medium lightbox onscroll-fade-in"
-content: |
-  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+id: "prep1"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/01.jpg"
-    thumb: "images/gallery/thumbs/01.jpg"
-    button: "Details"
+  - title: "Πουκάμισο"
+    image: "images/prewedding/1.jpg"
+    thumb: "images/prewedding/1.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/02.jpg"
-    thumb: "images/gallery/thumbs/02.jpg"
-    button: "Details"
+  - title: "Γελαστό Pin Up"
+    image: "images/prewedding/2.jpg"
+    thumb: "images/prewedding/2.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/03.jpg"
-    thumb: "images/gallery/thumbs/03.jpg"
-    button: "Details"
+  - title: "Πόδι"
+    image: "images/prewedding/8.jpg"
+    thumb: "images/prewedding/8.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/04.jpg"
-    thumb: "images/gallery/thumbs/04.jpg"
-    button: "Details"
+  - title: "Famme Fatale #1"
+    image: "images/prewedding/9.jpg"
+    thumb: "images/prewedding/9.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/05.jpg"
-    thumb: "images/gallery/thumbs/05.jpg"
-    button: "Details"
+  - title: "Famme Fatale #2"
+    image: "images/prewedding/10.jpg"
+    thumb: "images/prewedding/10.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/06.jpg"
-    thumb: "images/gallery/thumbs/06.jpg"
-    button: "Details"
+  - title: "'Μαμά μου'"
+    image: "images/prewedding/11.jpg"
+    thumb: "images/prewedding/11.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/07.jpg"
-    thumb: "images/gallery/thumbs/07.jpg"
-    button: "Details"
+  - title: "Γελαστό Pin Up #2"
+    image: "images/prewedding/4.jpg"
+    thumb: "images/prewedding/4.thumb.jpg"
+    button: μεγιστοποιηση
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/08.jpg"
-    thumb: "images/gallery/thumbs/08.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/09.jpg"
-    thumb: "images/gallery/thumbs/09.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/10.jpg"
-    thumb: "images/gallery/thumbs/10.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/11.jpg"
-    thumb: "images/gallery/thumbs/11.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/12.jpg"
-    thumb: "images/gallery/thumbs/12.jpg"
-    button: "Details"
-    
+  - title: "Γελαστό Pin Up #3"
+    image: "images/prewedding/6.jpg"
+    thumb: "images/prewedding/6.thumb.jpg"
+    button: μεγιστοποιηση
