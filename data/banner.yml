@@ -13,9 +13,11 @@ button2:
   - link: prep1
     css: wide smooth-scroll-middle primary large
     label: προετοιμασια 1
+    color: C8A2C8
   - link: prep2
-    css: wide smooth-scroll-middle primary large
+    css: wide smooth-scroll-middle large
     label: προετοιμασια 2
   - link: prep3
     css: wide smooth-scroll-middle primary large
     label: γαμος
+    color: 4b515c
